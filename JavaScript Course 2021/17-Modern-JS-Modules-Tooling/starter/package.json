@@ -1,0 +1,22 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clean.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Ola",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.8.1",
+    "leaflet": "^1.7.1",
+    "lodash-es": "^4.17.20",
+    "los": "0.0.1",
+    "regenerator-runtime": "^0.13.7"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
